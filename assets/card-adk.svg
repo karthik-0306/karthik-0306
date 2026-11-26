@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="274" viewBox="0 0 490 274" role="img" aria-label="Google ADK Python: Bounding tool results">
+<defs>
+<linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1220"/><stop offset="1" stop-color="#151B2C"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".32"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".18"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<clipPath id="clip"><rect width="490" height="274" rx="18"/></clipPath>
+<radialGradient id="o0"><stop offset="0" stop-color="#4285F4" stop-opacity="0.42"/><stop offset="1" stop-color="#4285F4" stop-opacity="0"/></radialGradient><radialGradient id="o1"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.24"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+@media (prefers-reduced-motion: no-preference) {
+.d0{animation:a 14s ease-in-out infinite alternate}
+.d1{animation:b 18s ease-in-out infinite alternate}
+.d2{animation:a 22s ease-in-out infinite alternate-reverse}
+}
+@keyframes a{to{transform:translate(40px,14px)}}
+@keyframes b{to{transform:translate(-50px,-10px)}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="490" height="274" fill="url(#base)"/>
+<circle class="d0" cx="40" cy="30" r="220" fill="url(#o0)"/><circle class="d1" cx="470" cy="260" r="210" fill="url(#o1)"/>
+<rect width="490" height="137.0" fill="url(#sheen)"/>
+<rect x="24" y="24" width="44" height="44" rx="11" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".14"/><path transform="translate(35,35) scale(0.9166666666666666)" d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z" fill="#4285F4"/><text x="82" y="51" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#C9D4E5" >Google ADK Python</text><text x="24" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#F0F6FC" >Bounding tool results</text><text x="24" y="138" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#AFBDD3" >Large tool results flood the context window.</text><text x="24" y="161" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#AFBDD3" >Proposal: offload oversized results to</text><text x="24" y="184" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#AFBDD3" >artifacts and clear stale ones, without</text><text x="24" y="207" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#AFBDD3" >breaking the context cache.</text><rect x="24" y="217" width="442" height="1" fill="#FFFFFF" fill-opacity=".10"/><text x="24" y="247" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.5" font-weight="400" fill="#7DD3FC" >Issue #8364</text><rect x="354" y="230" width="112" height="26" rx="13" fill="#F2C94C"/><text x="410.0" y="247.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#241A00" text-anchor="middle">In Progress</text>
+</g>
+<rect x=".5" y=".5" width="489" height="273" rx="17.5" fill="none" stroke="url(#edge)"/>
+</svg>
