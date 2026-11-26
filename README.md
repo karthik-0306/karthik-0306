@@ -4,14 +4,14 @@
 
 <br/>
 
-<a href="#google-adk"><img src="./assets/chip-adk.svg" height="34" alt="Google ADK" /></a>
-<a href="#pytorch"><img src="./assets/chip-pytorch.svg" height="34" alt="PyTorch" /></a>
-<a href="#apache-seatunnel"><img src="./assets/chip-seatunnel.svg" height="34" alt="Apache SeaTunnel" /></a>
-<a href="#apache-beam"><img src="./assets/chip-beam.svg" height="34" alt="Apache Beam" /></a>
-<a href="#microsoft-agent-framework"><img src="./assets/chip-maf.svg" height="34" alt="Microsoft Agent Framework" /></a>
+<a href="#google-adk"><img src="./assets/chip-adk.svg" height="36" alt="Google ADK" /></a>
+<a href="#pytorch"><img src="./assets/chip-pytorch.svg" height="36" alt="PyTorch" /></a>
+<a href="#apache-seatunnel"><img src="./assets/chip-seatunnel.svg" height="36" alt="Apache SeaTunnel" /></a>
+<a href="#apache-beam"><img src="./assets/chip-beam.svg" height="36" alt="Apache Beam" /></a>
+<a href="#microsoft-agent-framework"><img src="./assets/chip-maf.svg" height="36" alt="Microsoft Agent Framework" /></a>
 
-<a href="mailto:karthikthota7777@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/karthikthota29/"><img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn" /></a>
+<a href="mailto:karthikthota7777@gmail.com"><img src="./assets/btn-email.svg" height="36" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/karthikthota29/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
 
 </div>
 
@@ -208,7 +208,7 @@ A **TimeMixer** model forecasting volatility across **4 asset classes** (equitie
 
 **Let's connect**
 
-<a href="mailto:karthikthota7777@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/karthikthota29/"><img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn" /></a>
+<a href="mailto:karthikthota7777@gmail.com"><img src="./assets/btn-email.svg" height="36" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/karthikthota29/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
 
 </div>
